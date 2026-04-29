@@ -2,7 +2,7 @@
 A simple yet polished **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**.  
 Play against a friend, enjoy glowing effects, and see animated winner messages!
 
-## ✨ Features
+## Features
 - Classic **3×3 Tic Tac Toe board** built with buttons
 - **Winner detection** with glowing highlight
 - **Draw detection** when all boxes are filled
@@ -10,16 +10,15 @@ Play against a friend, enjoy glowing effects, and see animated winner messages!
 - Neon glow effects and hover animations
 - Animated winner message with bounce effect
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** for structure
 - **CSS3** for styling, glow effects, and animations
 - **JavaScript (ES6)** for game logic
 
-## 📱 Responsiveness
+## Responsiveness
 - Optimized for **desktop view**
 - Basic **media queries** added for mobile friendliness
-- ⚠️ Note: Further responsive polish will be added in future updates
-
+  
 ## Gameplay Demo
 
 Here’s a quick preview of the Tic Tac Toe game:
