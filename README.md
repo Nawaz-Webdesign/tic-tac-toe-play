@@ -11,9 +11,9 @@ Play against a friend, enjoy glowing effects, and see animated winner messages!
 - Animated winner message with bounce effect
 
 ## Technologies Used
-- **HTML5** for structure
-- **CSS3** for styling, glow effects, and animations
-- **JavaScript (ES6)** for game logic
+- **HTML** for structure
+- **CSS** for styling, glow effects, and animations
+- **JavaScript** for game logic
 
 ## Responsiveness
 - Optimized for **desktop view**
@@ -22,7 +22,5 @@ Play against a friend, enjoy glowing effects, and see animated winner messages!
 ## Gameplay Demo
 
 Here’s a quick preview of the Tic Tac Toe game:
-
-![Tic Tac Toe Demo](https://github.com/Nawaz-Webdesign/tic-tac-toe-play/releases/tag/v1.0.0)
 
 For the **full gameplay demo**, check out the [Release v1.0.0](https://github.com/Nawaz-Webdesign/tic-tac-toe-play/releases/tag/v1.0.0).
